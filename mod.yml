@@ -1,6 +1,6 @@
 title: Kingdom Hearts II Vocalia's Saga
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
-description: Mod di doppiaggio e adattamento italiano per Kingdom Hearts II Final Mix.
+description: Mod di doppiaggio e adattamento italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
 game: kh2
 assets:
@@ -3263,6 +3263,102 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/tt41303hi.win32.scd 
+- name: voice/us/event/tt49203Ahi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt49203Ahi.win32.scd 
+- name: voice/us/event/tt50201hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50201hi.win32.scd 
+- name: voice/us/event/tt50204hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50204hi.win32.scd 
+- name: voice/us/event/tt50207hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50207hi.win32.scd 
+- name: voice/us/event/tt50208hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50208hi.win32.scd 
+- name: voice/us/event/tt50210hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50210hi.win32.scd 
+- name: voice/us/event/tt50212hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50212hi.win32.scd 
+- name: voice/us/event/tt50304hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50304hi.win32.scd 
+- name: voice/us/event/tt50306hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50306hi.win32.scd 
+- name: voice/us/event/tt50501hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50501hi.win32.scd 
+- name: voice/us/event/tt50604hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50604hi.win32.scd 
+- name: voice/us/event/tt50607hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50607hi.win32.scd 
+- name: voice/us/event/tt50701hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50701hi.win32.scd 
+- name: voice/us/event/tt50704hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50704hi.win32.scd 
+- name: voice/us/event/tt50706hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50706hi.win32.scd 
+- name: voice/us/event/tt50714hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50714hi.win32.scd 
+- name: voice/us/event/tt50803hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50803hi.win32.scd 
+- name: voice/us/event/tt50810Ahi_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50810Ahi_1.win32.scd 
+- name: voice/us/event/tt50810Ahi_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50810Ahi_2.win32.scd 
+- name: voice/us/event/tt50901hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50901hi.win32.scd 
+- name: voice/us/event/tt50905hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50905hi.win32.scd 
+- name: voice/us/event/tt50907hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50907hi.win32.scd 
+- name: voice/us/event/tt51401hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51401hi.win32.scd 
+- name: voice/us/event/tt51404hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51404hi.win32.scd 
 - name: voice/us/event/tt70501hi.win32.scd 
   method: copy 
   source: 
