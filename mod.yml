@@ -916,6 +916,14 @@ assets:
   source: 
   - name: voice/us/event/tt70220ji.win32.scd 
 # SORA
+- name: voice/us/event/tt11801sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt11801sr.win32.scd 
+- name: voice/us/event/tt11803sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt11803sr.win32.scd 
 - name: voice/us/event/tt41408sr.win32.scd 
   method: copy 
   source: 
