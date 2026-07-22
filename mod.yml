@@ -1,5 +1,5 @@
 title: Kingdom Hearts II Vocalia's Saga
-version: 0.0.1
+version: 0.0.2
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
 description: Mod di doppiaggio e adattamento italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
@@ -878,6 +878,11 @@ assets:
   source: 
   - name: voice/us/event/wm30505do.win32.scd 
 ### CREPUSCOPOLI ###
+# MALEFICA
+- name: voice/us/event/tt81010ma.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt81010ma.win32.scd 
 # TOPOLINO
 - name: voice/us/event/tt70702mm.win32.scd 
   method: copy 
@@ -4041,6 +4046,11 @@ assets:
   source: 
   - name: voice/us/event/tt50805b4.win32.scd 
 ### LE ISOLE DEL DESTINO ###
+# COMPUTER
+- name: voice/us/event/di99908cm.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/di99908cm.win32.scd 
 # SELPHIE
 - name: voice/us/event/di99701sl.win32.scd 
   method: copy 
@@ -5208,6 +5218,87 @@ assets:
   source: 
   - name: voice/us/event/eh13631na.win32.scd 
 ### LA FORTEZZA OSCURA ###
+# YUFFIE
+- name: voice/us/event/hb10401yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10401yu.win32.scd 
+- name: voice/us/event/hb10403yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10403yu.win32.scd 
+- name: voice/us/event/hb10501yu_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10501yu_1.win32.scd 
+- name: voice/us/event/hb10501yu_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10501yu_2.win32.scd 
+- name: voice/us/event/hb10503yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10503yu.win32.scd 
+- name: voice/us/event/hb10505yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10505yu.win32.scd 
+- name: voice/us/event/hb10507yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10507yu.win32.scd 
+- name: voice/us/event/hb10508yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10508yu.win32.scd 
+- name: voice/us/event/hb10510yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10510yu.win32.scd 
+- name: voice/us/event/hb10511yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10511yu.win32.scd 
+- name: voice/us/event/hb10601yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10601yu.win32.scd 
+- name: voice/us/event/hb10609yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10609yu.win32.scd 
+- name: voice/us/event/hb10620yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10620yu.win32.scd 
+- name: voice/us/event/hb10630yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10630yu.win32.scd 
+- name: voice/us/event/hb50401yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb50401yu.win32.scd 
+- name: voice/us/event/hb50404yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb50404yu.win32.scd 
+- name: voice/us/event/hb50406yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb50406yu.win32.scd 
+- name: voice/us/event/hb50408yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb50408yu.win32.scd 
+- name: voice/us/event/hb50411Byu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb50411Byu.win32.scd 
+- name: voice/us/event/hb50425yu.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb50425yu.win32.scd 
 # LEON
 - name: voice/us/event/hb10604le.win32.scd 
   method: copy 
