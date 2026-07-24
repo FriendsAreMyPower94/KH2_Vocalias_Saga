@@ -1,10 +1,45 @@
-# KH2_Vocalias_Saga
-Questo repository contiene tutti i file relativi alla mod doppiaggio e adattamento italiano per **Kingdom Hearts II Final Mix**.
-La mod include sia il doppiaggio in italiano di tutte le scene del gioco, che la revisione d ottimizzazione dei testi, ed è stata sviluppata per integrarsi perfettamente con l'ecosistema **OpenKH**.
+# 🗝️ Kingdom Hearts II Vocalia's Saga 🗝️
+Benvenuti nella repository ufficiale della mod di doppiaggio e adattamento in italiano per Kingdom Hearts II Final Mix, interamente realizzata da Vocalia Studios.
 
-## Come funziona
-Affinché OpenKH Mods Manager possa leggere e compilare la mod correttamente basterà seguire questi passaggi:
-- Scaricare ed installare OpenKH Mods Manager dal sito ufficiale
-- Eseguire la procedura guidata per identificare il percorso in cui è installata la vostra versione del gioco
-- Fare clic sul menu in alto su Mod > Install mod... ed inserire il link GitHub della mod
-- Fare clic sul pulsante **Build and Run** nel menu in alto a sinistra dell'applicazione per compilare la mod e avviare il gioco
+Questo progetto nasce dalla nostra passione per la saga con l'obiettivo di offrire un'esperienza di gioco completamente localizzata nella nostra lingua, combinando un adattamento fedele all'opera originale con un doppiaggio professionale di alta qualità.
+
+## 🌟 Caratteristiche
+- Doppiaggio integrale: Tutte le scene d'intermezzo e i dialoghi di gioco saranno completamente in italiano
+- Adattamento dei testi: Traduzione e revisione adattata di tutti i testi di gioco, dei menu e dei sottotitoli
+- Integrazione Audio Seamless: Le tracce audio sono state bilanciate e sincronizzate con il labiale e le animazioni
+- Compatibilità: La mod è progettata per integrarsi con le versioni PC Steam ed Epic Games di Kingdom Hearts II Final Mix
+
+## 🛠️ Installazione
+### OpenKH
+Questa mod è stata sviluppata per integrarsi perfettamente con l'ecosistema **OpenKH Mods Manager**.
+Affinché OpenKH Mods Manager possa leggere e compilare la mod correttamente è necessario seguire questi passaggi:
+- Scaricare ed installare l'ultima versione di [OpenKH Mods Manager](https://github.com/OpenKH/OpenKh/releases)
+- Seguire la [procedura guidata](https://openkh.dev/tool/GUI.ModsManager/) per identificare il percorso in cui è installata la vostra versione del gioco
+- Una volta configurato correttamente OpenKh, fare clic nel menu in alto su **Mods > Install a new mod** o sul **+** verde al centro della schermata ed inserire il link GitHub della mod (https://github.com/FriendsAreMyPower94/KH2_Vocalias_Saga)
+- Fare clic sul pulsante **Build and Run** nel menu in alto per compilare la mod e avviare il gioco
+
+### Video
+All'interno del gioco sono presenti anche dei file in formato video, come l'opening e l'ending, che devono essere sostituiti a quelli originali.
+Scaricate tutti i video in italiano da questo link e sovrascrivete l'intero contenuto della cartella **juefigs** all'interno della cartella della vostra installazione del gioco; vi basterà spostarla al suo interno.
+Solitamente Il percorso potrebbe essere qualcosa di simile a questo:
+- **STEAM:** C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
+- **EPIC GAMES:** C:\Program Files\Epic Games\KH_1.5_2.5
+
+## 👥 Crediti
+Questo progetto è stato reso possibile grazie al lavoro del team di Vocalia Studios e a tutti i doppiatori e adattatori che vi hanno preso parte:
+- **Direzione del doppiaggio e adattamento:** Vocalia Studios
+- **Cast:** (Lista doppiatori / Link ai crediti completi)
+- **Editing audio:** Vocalia Studios
+- **Modding:** FriendsAreMyPower94
+
+## 💬 Community e Supporto
+Se doveste riscontrare bug, problemi audio o refusi nei testi, vi invitiamo ad aprire una segnalazione nella sezione Issues di GitHub.
+Inoltre, ci invitiamo a unirti ai nostri canali social per seguire tutti gli aggiornamenti sul progetto:
+- Instagram: [vocaliastudios](https://www.instagram.com/vocaliastudios/)
+- YouTube: [𝐕𝐎𝐂𝐀𝐋𝐈𝐀 𝑺𝒕𝒖𝒅𝒊𝒐𝒔](https://www.youtube.com/@vocaliastudio)
+- Instagram: [friendsaremypower94](https://www.instagram.com/friendsaremypower94/)
+- YouTube: [FriendsAreMyPower94](https://www.youtube.com/@FriendsAreMyPower94)
+
+**Nota Bene:** Per utilizzare questa mod è necessaria una copia originale ed installata di Kingdom Hearts II Final Mix.
+
+Kingdom Hearts è un marchio registrato di Disney e Square Enix. Questa mod non è a scopo di lucro ed è stata creata dai fan per i fan.
