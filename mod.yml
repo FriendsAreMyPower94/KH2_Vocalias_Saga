@@ -1,7 +1,7 @@
 title: Kingdom Hearts II Vocalia's Saga
-version: 0.0.2
+version: 0.0.3
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
-description: Mod di doppiaggio e adattamento italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
+description: Mod di doppiaggio e adattamento in italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
 game: kh2
 assets:
@@ -816,64 +816,64 @@ assets:
 ########################
 ### GUMMISHIP ###
 # SORA
-- name: voice/us/event/wm30101sr.win32.scd 
+- name: remastered/libretto/us/wm502.bar/voice/wm/us/wm30101sr
   method: copy 
   source: 
   - name: voice/us/event/wm30101sr.win32.scd 
-- name: voice/us/event/wm30202sr.win32.scd 
+- name: remastered/libretto/us/wm512.bar/voice/wm/us/wm30202sr
   method: copy 
   source: 
   - name: voice/us/event/wm30202sr.win32.scd 
-- name: voice/us/event/wm30301sr.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm30301sr
   method: copy 
   source: 
   - name: voice/us/event/wm30301sr.win32.scd 
-- name: voice/us/event/wm30304sr.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm30304sr
   method: copy 
   source: 
   - name: voice/us/event/wm30304sr.win32.scd 
-- name: voice/us/event/wm30307sr.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm30307sr
   method: copy 
   source: 
   - name: voice/us/event/wm30307sr.win32.scd 
-- name: voice/us/event/wm30401sr.win32.scd 
+- name: remastered/libretto/us/wm1823.bar/voice/wm/us/wm30401sr
   method: copy 
   source: 
   - name: voice/us/event/wm30401sr.win32.scd 
-- name: voice/us/event/wm30502sr.win32.scd 
+- name: remastered/libretto/us/wm1824.bar/voice/wm/us/wm30502sr
   method: copy 
   source: 
   - name: voice/us/event/wm30502sr.win32.scd 
-- name: voice/us/event/wm30504sr.win32.scd 
+- name: remastered/libretto/us/wm1824.bar/voice/wm/us/wm30504sr
   method: copy 
   source: 
   - name: voice/us/event/wm30504sr.win32.scd 
-- name: voice/us/event/wm30506sr.win32.scd 
+- name: remastered/libretto/us/wm1824.bar/voice/wm/us/wm30506sr
   method: copy 
   source: 
   - name: voice/us/event/wm30506sr.win32.scd 
-- name: voice/us/event/wm30601sr.win32.scd 
+- name: remastered/libretto/us/wm1836.bar/voice/wm/us/wm30601sr
   method: copy 
   source: 
   - name: voice/us/event/wm30601sr.win32.scd 
 # PAPERINO
-- name: voice/us/event/wm30102do.win32.scd 
+- name: remastered/libretto/us/wm502.bar/voice/wm/us/wm30102do
   method: copy 
   source: 
   - name: voice/us/event/wm30102do.win32.scd 
-- name: voice/us/event/wm30302do.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm30302do
   method: copy 
   source: 
   - name: voice/us/event/wm30302do.win32.scd 
-- name: voice/us/event/wm30306do.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm30306do
   method: copy 
   source: 
   - name: voice/us/event/wm30306do.win32.scd 
-- name: voice/us/event/wm30402do.win32.scd 
+- name: remastered/libretto/us/wm1823.bar/voice/wm/us/wm30402do
   method: copy 
   source: 
   - name: voice/us/event/wm30402do.win32.scd 
-- name: voice/us/event/wm30505do.win32.scd 
+- name: remastered/libretto/us/wm1824.bar/voice/wm/us/wm30505do
   method: copy 
   source: 
   - name: voice/us/event/wm30505do.win32.scd 
@@ -1677,6 +1677,10 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/tt11718or.win32.scd 
+- name: voice/us/event/tt19205or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt19205or.win32.scd 
 - name: voice/us/event/tt20302or.win32.scd 
   method: copy 
   source: 
@@ -1737,6 +1741,130 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/tt31813or.win32.scd 
+- name: voice/us/event/tt40302or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40302or.win32.scd 
+- name: voice/us/event/tt41011or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41011or.win32.scd 
+- name: voice/us/event/tt41015or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41015or.win32.scd 
+- name: voice/us/event/tt41203or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41203or.win32.scd 
+- name: voice/us/event/tt41301Aor.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41301Aor.win32.scd 
+- name: voice/us/event/tt41304or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41304or.win32.scd 
+- name: voice/us/event/tt50202or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50202or.win32.scd 
+- name: voice/us/event/tt50206or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50206or.win32.scd 
+- name: voice/us/event/tt50214or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50214or.win32.scd 
+- name: voice/us/event/tt50303or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50303or.win32.scd 
+- name: voice/us/event/tt50305or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50305or.win32.scd 
+- name: voice/us/event/tt50605or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50605or.win32.scd 
+- name: voice/us/event/tt50609or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50609or.win32.scd 
+- name: voice/us/event/tt50703or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50703or.win32.scd 
+- name: voice/us/event/tt50715or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50715or.win32.scd 
+- name: voice/us/event/tt50903or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50903or.win32.scd 
+- name: voice/us/event/tt50908or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50908or.win32.scd 
+- name: voice/us/event/tt51301or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51301or.win32.scd 
+- name: voice/us/event/tt51303or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51303or.win32.scd 
+- name: voice/us/event/tt51305or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51305or.win32.scd 
+- name: voice/us/event/tt51306or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51306or.win32.scd 
+- name: voice/us/event/tt51308or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51308or.win32.scd 
+- name: voice/us/event/tt51403or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51403or.win32.scd 
+- name: voice/us/event/tt51406Bor.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51406Bor.win32.scd 
+- name: voice/us/event/tt70508or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70508or.win32.scd 
+- name: voice/us/event/tt70513or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70513or.win32.scd 
+- name: voice/us/event/tt70519or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70519or.win32.scd 
+- name: voice/us/event/tt70808or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70808or.win32.scd 
+- name: voice/us/event/tt70901or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70901or.win32.scd 
+- name: voice/us/event/tt70904or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70904or.win32.scd 
+- name: voice/us/event/tt71006or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt71006or.win32.scd 
 # PENCE
 - name: voice/us/event/tt10202pz.win32.scd 
   method: copy 
@@ -4188,6 +4316,20 @@ assets:
   source: 
   - name: voice/us/event/di89910x8.win32.scd 
 ### IL MONDO CHE NON ESISTE ###
+# SAIX
+- name: voice/us/event/eh50210x7.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/eh50210x7.win32.scd 
+# XALDIN
+- name: voice/us/event/eh50201x3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/eh50201x3.win32.scd 
+- name: voice/us/event/eh50208x3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/eh50208x3.win32.scd 
 # LUXORD
 - name: voice/us/event/eh50204x0.win32.scd 
   method: copy 
@@ -8164,6 +8306,27 @@ assets:
   source: 
   - name: voice/us/event/al20924ia.win32.scd 
 ### CASTELLO DISNEY
+# PAPERINA
+- name: voice/us/event/dc11116da.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/dc11116da.win32.scd 
+- name: voice/us/event/dc11118da.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/dc11118da.win32.scd 
+- name: voice/us/event/dc11122da.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/dc11122da.win32.scd 
+- name: voice/us/event/dc11124da.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/dc11124da.win32.scd 
+- name: voice/us/event/dc11129da.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/dc11129da.win32.scd 
 # CIP
 - name: voice/us/event/dc10102Aci.win32.scd 
   method: copy 
@@ -8305,144 +8468,153 @@ assets:
   - name: voice/us/event/dc11104de.win32.scd 
 ### WORLD MAP ###
 # CIP
-- name: voice/us/event/wm30702ci.win32.scd 
+- name: remastered/libretto/us/wm502.bar/voice/wm/us/wm30702ci
   method: copy 
   source: 
   - name: voice/us/event/wm30702ci.win32.scd 
-- name: voice/us/event/wm30704ci.win32.scd 
+- name: remastered/libretto/us/wm502.bar/voice/wm/us/wm30704ci
   method: copy 
   source: 
   - name: voice/us/event/wm30704ci.win32.scd 
-- name: voice/us/event/wm30801ci.win32.scd 
+- name: remastered/libretto/us/wm1837.bar/voice/wm/us/wm30801ci
   method: copy 
   source: 
   - name: voice/us/event/wm30801ci.win32.scd 
-- name: voice/us/event/wm30902ci.win32.scd 
+- name: remastered/libretto/us/wm1838.bar/voice/wm/us/wm30902ci
   method: copy 
   source: 
   - name: voice/us/event/wm30902ci.win32.scd 
-- name: voice/us/event/wm31001ci.win32.scd 
+- name: remastered/libretto/us/wm503.bar/voice/wm/us/wm31001ci
   method: copy 
   source: 
   - name: voice/us/event/wm31001ci.win32.scd 
-- name: voice/us/event/wm31101ci.win32.scd 
+- name: remastered/libretto/us/wm521.bar/voice/wm/us/wm31101ci
   method: copy 
   source: 
   - name: voice/us/event/wm31101ci.win32.scd 
-- name: voice/us/event/wm31201ci.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm31201ci
   method: copy 
   source: 
   - name: voice/us/event/wm31201ci.win32.scd 
-- name: voice/us/event/wm31203ci.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm31203ci
   method: copy 
   source: 
   - name: voice/us/event/wm31203ci.win32.scd 
-- name: voice/us/event/wm31301ci.win32.scd 
+- name: remastered/libretto/us/wm1660.bar/voice/wm/us/wm31301ci
   method: copy 
   source: 
   - name: voice/us/event/wm31301ci.win32.scd 
-- name: voice/us/event/wm31303ci.win32.scd 
+- name: remastered/libretto/us/wm1660.bar/voice/wm/us/wm31303ci
   method: copy 
   source: 
   - name: voice/us/event/wm31303ci.win32.scd 
-- name: voice/us/event/wm31305ci.win32.scd 
+- name: remastered/libretto/us/wm1660.bar/voice/wm/us/wm31305ci
   method: copy 
   source: 
   - name: voice/us/event/wm31305ci.win32.scd 
-- name: voice/us/event/wm31401ci.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31401ci
   method: copy 
   source: 
   - name: voice/us/event/wm31401ci.win32.scd 
-- name: voice/us/event/wm31403ci.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31403ci
   method: copy 
   source: 
   - name: voice/us/event/wm31403ci.win32.scd 
-- name: voice/us/event/wm31405ci.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31405ci
   method: copy 
   source: 
   - name: voice/us/event/wm31405ci.win32.scd 
-- name: voice/us/event/wm31407ci.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31407ci
   method: copy 
   source: 
   - name: voice/us/event/wm31407ci.win32.scd 
-- name: voice/us/event/wm31409ci.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31409ci
   method: copy 
   source: 
   - name: voice/us/event/wm31409ci.win32.scd 
-- name: voice/us/event/wm31501ci.win32.scd 
+- name: remastered/libretto/us/wm1662.bar/voice/wm/us/wm31501ci
   method: copy 
   source: 
   - name: voice/us/event/wm31501ci.win32.scd 
-- name: voice/us/event/wm31503ci.win32.scd 
+- name: remastered/libretto/us/wm1662.bar/voice/wm/us/wm31503ci
   method: copy 
   source: 
   - name: voice/us/event/wm31503ci.win32.scd 
-- name: voice/us/event/wm31505ci.win32.scd 
+- name: remastered/libretto/us/wm1662.bar/voice/wm/us/wm31505ci
   method: copy 
   source: 
   - name: voice/us/event/wm31505ci.win32.scd 
 # CIOP
-- name: voice/us/event/wm30701de.win32.scd 
+- name: remastered/libretto/us/wm502.bar/voice/wm/us/wm30701de
   method: copy 
   source: 
   - name: voice/us/event/wm30701de.win32.scd 
-- name: voice/us/event/wm30703de.win32.scd 
+- name: remastered/libretto/us/wm502.bar/voice/wm/us/wm30703de
   method: copy 
   source: 
   - name: voice/us/event/wm30703de.win32.scd 
-- name: voice/us/event/wm30802de.win32.scd 
+- name: remastered/libretto/us/wm1837.bar/voice/wm/us/wm30802de
   method: copy 
   source: 
   - name: voice/us/event/wm30802de.win32.scd 
-- name: voice/us/event/wm30901de.win32.scd 
+- name: remastered/libretto/us/wm1838.bar/voice/wm/us/wm30901de
   method: copy 
   source: 
   - name: voice/us/event/wm30901de.win32.scd 
-- name: voice/us/event/wm31002de.win32.scd 
+- name: remastered/libretto/us/wm503.bar/voice/wm/us/wm31002de
   method: copy 
   source: 
   - name: voice/us/event/wm31002de.win32.scd 
-- name: voice/us/event/wm31102de.win32.scd 
+- name: remastered/libretto/us/wm521.bar/voice/wm/us/wm31102de
   method: copy 
   source: 
   - name: voice/us/event/wm31102de.win32.scd 
-- name: voice/us/event/wm31202de.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm31202de
   method: copy 
   source: 
   - name: voice/us/event/wm31202de.win32.scd 
-- name: voice/us/event/wm31302de.win32.scd 
+- name: remastered/libretto/us/wm1660.bar/voice/wm/us/wm31302de
   method: copy 
   source: 
   - name: voice/us/event/wm31302de.win32.scd 
-- name: voice/us/event/wm31304de.win32.scd 
+- name: remastered/libretto/us/wm1660.bar/voice/wm/us/wm31304de
   method: copy 
   source: 
   - name: voice/us/event/wm31304de.win32.scd 
-- name: voice/us/event/wm31402de.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31402de
   method: copy 
   source: 
   - name: voice/us/event/wm31402de.win32.scd 
-- name: voice/us/event/wm31404de.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31404de
   method: copy 
   source: 
   - name: voice/us/event/wm31404de.win32.scd 
-- name: voice/us/event/wm31406de.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31406de
   method: copy 
   source: 
   - name: voice/us/event/wm31406de.win32.scd 
-- name: voice/us/event/wm31408de.win32.scd 
+- name: remastered/libretto/us/wm1661.bar/voice/wm/us/wm31408de
   method: copy 
   source: 
   - name: voice/us/event/wm31408de.win32.scd 
-- name: voice/us/event/wm31502de.win32.scd 
+- name: remastered/libretto/us/wm1662.bar/voice/wm/us/wm31502de
   method: copy 
   source: 
   - name: voice/us/event/wm31502de.win32.scd 
-- name: voice/us/event/wm31504de.win32.scd 
+- name: remastered/libretto/us/wm1662.bar/voice/wm/us/wm31504de
   method: copy 
   source: 
   - name: voice/us/event/wm31504de.win32.scd 
 ### CASTELLO DELLA BESTIA ###
+# GUARDAROBA
+- name: voice/us/event/bb20102ch.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/bb20102ch.win32.scd 
+- name: voice/us/event/bb20104ch.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/bb20104ch.win32.scd 
 # TOCKINS
 - name: voice/us/event/bb11004co.win32.scd 
   method: copy 
@@ -9389,6 +9561,10 @@ assets:
   - name: voice/us/event/es99703rk.win32.scd 
 ### TERRE DEL BRANCO ###
 # SIMBA
+- name: voice/us/event/lk10101si.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/lk10101si.win32.scd 
 - name: voice/us/event/lk10201si.win32.scd 
   method: copy 
   source: 
