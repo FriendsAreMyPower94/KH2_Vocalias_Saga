@@ -1466,6 +1466,54 @@ assets:
   source: 
   - name: voice/us/event/tt90420x7_2.win32.scd 
 # FATE
+- name: voice/us/event/tt80801f1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80801f1.win32.scd 
+- name: voice/us/event/tt80805f1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80805f1.win32.scd 
+- name: voice/us/event/tt80807f1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80807f1.win32.scd 
+- name: voice/us/event/tt80811Af1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80811Af1.win32.scd 
+- name: voice/us/event/tt80811f1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80811f1.win32.scd 
+- name: voice/us/event/tt80812f1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80812f1.win32.scd 
+- name: voice/us/event/tt80815f1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80815f1.win32.scd 
+- name: voice/us/event/tt80823f1_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80823f1_1.win32.scd 
+- name: voice/us/event/tt80823f1_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80823f1_2.win32.scd 
+- name: voice/us/event/tt81005f1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt81005f1.win32.scd 
+- name: voice/us/event/tt81007Af1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt81007Af1.win32.scd 
+- name: voice/us/event/tt81008f1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt81008f1.win32.scd 
 - name: voice/us/event/tt80802f3.win32.scd 
   method: copy 
   source: 
