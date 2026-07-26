@@ -5441,6 +5441,92 @@ assets:
   source: 
   - name: voice/us/event/eh13631na.win32.scd 
 ### LA FORTEZZA OSCURA ###
+# PAPERINO
+- name: voice/us/event/hb10203do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10203do.win32.scd 
+- name: voice/us/event/hb10400do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10400do.win32.scd 
+- name: voice/us/event/hb10504do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10504do.win32.scd 
+- name: voice/us/event/hb10510Ado.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10510Ado.win32.scd 
+- name: voice/us/event/hb10608do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10608do.win32.scd 
+- name: voice/us/event/hb10625do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10625do.win32.scd 
+- name: voice/us/event/hb10629do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10629do.win32.scd 
+- name: voice/us/event/hb10633do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10633do.win32.scd 
+- name: voice/us/event/hb10808do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10808do.win32.scd 
+- name: voice/us/event/hb10809do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10809do.win32.scd 
+- name: voice/us/event/hb10815do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10815do.win32.scd 
+- name: voice/us/event/hb10826do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10826do.win32.scd 
+- name: voice/us/event/hb10827do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10827do.win32.scd 
+- name: voice/us/event/hb10833do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10833do.win32.scd 
+- name: voice/us/event/hb10841do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10841do.win32.scd 
+# AEIRTH
+- name: voice/us/event/hb10602ea.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10602ea.win32.scd 
+- name: voice/us/event/hb10612ea.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10612ea.win32.scd 
+- name: voice/us/event/hb10615ea.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10615ea.win32.scd 
+- name: voice/us/event/hb10626ea.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10626ea.win32.scd 
+- name: voice/us/event/hb10636ea.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10636ea.win32.scd 
+- name: voice/us/event/hb10637ea.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10637ea.win32.scd 
 # XEMNAS
 - name: voice/us/event/hb10709x1.win32.scd 
   method: copy 
