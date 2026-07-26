@@ -1,5 +1,5 @@
 title: Kingdom Hearts II Vocalia's Saga
-version: 0.0.3
+version: 0.0.4
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
 description: Mod di doppiaggio e adattamento in italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
@@ -878,6 +878,23 @@ assets:
   source: 
   - name: voice/us/event/wm30505do.win32.scd 
 ### CREPUSCOPOLI ###
+# XEMNAS
+- name: voice/us/event/tt05101x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt05101x1.win32.scd 
+- name: voice/us/event/tt05102x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt05102x1.win32.scd 
+- name: voice/us/event/tt05103x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt05103x1.win32.scd 
+- name: voice/us/event/tt05105x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt05105x1.win32.scd 
 # MALEFICA
 - name: voice/us/event/tt81010ma.win32.scd 
   method: copy 
@@ -2046,6 +2063,10 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/tt50210pz.win32.scd 
+- name: voice/us/event/tt50301pz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt50301pz.win32.scd 
 - name: voice/us/event/tt50302pz.win32.scd 
   method: copy 
   source: 
@@ -3133,6 +3154,10 @@ assets:
   source: 
   - name: voice/us/event/tt70201rs.win32.scd 
 # HAYNER
+- name: voice/us/event/tt19206hi.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt19206hi.win32.scd 
 - name: voice/us/event/tt10201hi.win32.scd 
   method: copy 
   source: 
@@ -5239,6 +5264,14 @@ assets:
   source: 
   - name: voice/us/event/eh50611rk.win32.scd 
 # XEMNAS
+- name: voice/us/event/eh50211x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/eh50211x1.win32.scd 
+- name: voice/us/event/eh50212x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/eh50212x1.win32.scd 
 - name: voice/us/event/eh13642x1.win32.scd 
   method: copy 
   source: 
@@ -5360,6 +5393,35 @@ assets:
   source: 
   - name: voice/us/event/eh13631na.win32.scd 
 ### LA FORTEZZA OSCURA ###
+# XEMNAS
+- name: voice/us/event/hb10709x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10709x1.win32.scd 
+- name: voice/us/event/hb10712x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10712x1.win32.scd 
+- name: voice/us/event/hb10801x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10801x1.win32.scd 
+- name: voice/us/event/hb10806x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10806x1.win32.scd 
+- name: voice/us/event/hb41706x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb41706x1.win32.scd 
+- name: voice/us/event/hb41708x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb41708x1.win32.scd 
+- name: voice/us/event/hb70101x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb70101x1.win32.scd 
 # YUFFIE
 - name: voice/us/event/hb10401yu.win32.scd 
   method: copy 
