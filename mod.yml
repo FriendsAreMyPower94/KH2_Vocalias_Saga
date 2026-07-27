@@ -878,6 +878,183 @@ assets:
   source: 
   - name: voice/us/event/wm30505do.win32.scd 
 ### CREPUSCOPOLI ###
+# PAPERINO
+- name: voice/us/event/tt70203do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70203do.win32.scd 
+- name: voice/us/event/tt70205Ado.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70205Ado.win32.scd 
+- name: voice/us/event/tt70206Bdo.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70206Bdo.win32.scd 
+- name: voice/us/event/tt70210do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70210do.win32.scd 
+- name: voice/us/event/tt70214do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70214do.win32.scd 
+- name: voice/us/event/tt70218do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70218do.win32.scd 
+- name: voice/us/event/tt70402do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70402do.win32.scd 
+- name: voice/us/event/tt70515do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70515do.win32.scd 
+- name: voice/us/event/tt70521do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70521do.win32.scd 
+- name: voice/us/event/tt70701do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70701do.win32.scd 
+- name: voice/us/event/tt70705do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70705do.win32.scd 
+- name: voice/us/event/tt70708do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70708do.win32.scd 
+- name: voice/us/event/tt70712do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70712do.win32.scd 
+- name: voice/us/event/tt70714do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70714do.win32.scd 
+- name: voice/us/event/tt70716Ado.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70716Ado.win32.scd 
+- name: voice/us/event/tt70718do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70718do.win32.scd 
+- name: voice/us/event/tt70721do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70721do.win32.scd 
+- name: voice/us/event/tt70727do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70727do.win32.scd 
+- name: voice/us/event/tt70902do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70902do.win32.scd 
+- name: voice/us/event/tt71103do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt71103do.win32.scd 
+- name: voice/us/event/tt71205do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt71205do.win32.scd 
+- name: voice/us/event/tt71209do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt71209do.win32.scd 
+- name: voice/us/event/tt71302do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt71302do.win32.scd 
+- name: voice/us/event/tt80201do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80201do.win32.scd 
+- name: voice/us/event/tt80203do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80203do.win32.scd 
+- name: voice/us/event/tt80208do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80208do.win32.scd 
+- name: voice/us/event/tt80211do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80211do.win32.scd 
+- name: voice/us/event/tt80216Bdo.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80216Bdo.win32.scd 
+- name: voice/us/event/tt80221Ado.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80221Ado.win32.scd 
+- name: voice/us/event/tt80304do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80304do.win32.scd 
+- name: voice/us/event/tt80401do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80401do.win32.scd 
+- name: voice/us/event/tt80501do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80501do.win32.scd 
+- name: voice/us/event/tt80503do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80503do.win32.scd 
+- name: voice/us/event/tt80605do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80605do.win32.scd 
+- name: voice/us/event/tt80607do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80607do.win32.scd 
+- name: voice/us/event/tt80619do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80619do.win32.scd 
+- name: voice/us/event/tt80702do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80702do.win32.scd 
+- name: voice/us/event/tt80819Ado.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80819Ado.win32.scd 
+- name: voice/us/event/tt80820do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80820do.win32.scd 
+- name: voice/us/event/tt80826do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80826do.win32.scd 
+- name: voice/us/event/tt80901do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80901do.win32.scd 
+- name: voice/us/event/tt80905do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80905do.win32.scd 
+- name: voice/us/event/tt80911do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80911do.win32.scd 
+- name: voice/us/event/tt80914do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80914do.win32.scd 
 # XEMNAS
 - name: voice/us/event/tt05101x1.win32.scd 
   method: copy 
@@ -5441,6 +5618,180 @@ assets:
   source: 
   - name: voice/us/event/eh13631na.win32.scd 
 ### LA FORTEZZA OSCURA ###
+# CID
+- name: voice/us/event/hb10603sd.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10603sd.win32.scd 
+- name: voice/us/event/hb10611sd.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10611sd.win32.scd 
+- name: voice/us/event/hb10617sd.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10617sd.win32.scd 
+# SORA
+- name: voice/us/event/hb10201sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10201sr.win32.scd 
+- name: voice/us/event/hb10400Asr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10400Asr.win32.scd 
+- name: voice/us/event/hb10402sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10402sr.win32.scd 
+- name: voice/us/event/hb10502sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10502sr.win32.scd 
+- name: voice/us/event/hb10506sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10506sr.win32.scd 
+- name: voice/us/event/hb10509sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10509sr.win32.scd 
+- name: voice/us/event/hb10605sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10605sr.win32.scd 
+- name: voice/us/event/hb10607sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10607sr.win32.scd 
+- name: voice/us/event/hb10613sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10613sr.win32.scd 
+- name: voice/us/event/hb10614sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10614sr.win32.scd 
+- name: voice/us/event/hb10616sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10616sr.win32.scd 
+- name: voice/us/event/hb10619sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10619sr.win32.scd 
+- name: voice/us/event/hb10621sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10621sr.win32.scd 
+- name: voice/us/event/hb10623sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10623sr.win32.scd 
+- name: voice/us/event/hb10632sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10632sr.win32.scd 
+- name: voice/us/event/hb10638sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10638sr.win32.scd 
+- name: voice/us/event/hb10641sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10641sr.win32.scd 
+- name: voice/us/event/hb10642sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10642sr.win32.scd 
+- name: voice/us/event/hb10702sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10702sr.win32.scd 
+- name: voice/us/event/hb10705sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10705sr.win32.scd 
+- name: voice/us/event/hb10707sr_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10707sr_1.win32.scd 
+- name: voice/us/event/hb10707sr_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10707sr_2.win32.scd 
+- name: voice/us/event/hb10711sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10711sr.win32.scd 
+- name: voice/us/event/hb10803sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10803sr.win32.scd 
+- name: voice/us/event/hb10805sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10805sr.win32.scd 
+- name: voice/us/event/hb10811sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10811sr.win32.scd 
+- name: voice/us/event/hb10813sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10813sr.win32.scd 
+- name: voice/us/event/hb10817sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10817sr.win32.scd 
+- name: voice/us/event/hb10819sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10819sr.win32.scd 
+- name: voice/us/event/hb10821sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10821sr.win32.scd 
+- name: voice/us/event/hb10822Asr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10822Asr.win32.scd 
+- name: voice/us/event/hb10823sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10823sr.win32.scd 
+- name: voice/us/event/hb10828sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10828sr.win32.scd 
+- name: voice/us/event/hb10830sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10830sr.win32.scd 
+- name: voice/us/event/hb10831sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10831sr.win32.scd 
+- name: voice/us/event/hb10832sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10832sr.win32.scd 
+- name: voice/us/event/hb10836sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10836sr.win32.scd 
+- name: voice/us/event/hb10839sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10839sr.win32.scd 
+- name: voice/us/event/hb10840sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10840sr.win32.scd 
+- name: voice/us/event/hb10842sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10842sr.win32.scd 
 # PAPERINO
 - name: voice/us/event/hb10203do.win32.scd 
   method: copy 
