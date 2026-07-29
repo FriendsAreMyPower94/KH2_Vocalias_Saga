@@ -28,7 +28,7 @@ Solitamente Il percorso potrebbe essere qualcosa di simile a questo:
 ## 👥 Crediti
 Questo progetto è stato reso possibile grazie al lavoro del team di Vocalia Studios e a tutti i doppiatori e adattatori che vi hanno preso parte:
 - **Direzione del doppiaggio e adattamento:** Vocalia Studios
-- **Cast:** (Lista doppiatori / Link ai crediti completi)
+- **Cast:** [In aggiornamento]
 - **Editing audio:** Vocalia Studios
 - **Modding:** FriendsAreMyPower94
 

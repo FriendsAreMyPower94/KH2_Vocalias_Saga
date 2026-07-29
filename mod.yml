@@ -1,5 +1,5 @@
 title: Kingdom Hearts II Vocalia's Saga
-version: 0.0.4
+version: 0.0.5
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
 description: Mod di doppiaggio e adattamento in italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
@@ -877,7 +877,29 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/wm30505do.win32.scd 
+# PIPPO
+- name: remastered/libretto/us/wm502.bar/voice/wm/us/wm30103go
+  method: copy 
+  source: 
+  - name: voice/us/event/wm30103go.win32.scd 
+- name: remastered/libretto/us/wm512.bar/voice/wm/us/wm30201go
+  method: copy 
+  source: 
+  - name: voice/us/event/wm30201go.win32.scd 
+- name: remastered/libretto/us/wm512.bar/voice/wm/us/wm30203go
+  method: copy 
+  source: 
+  - name: voice/us/event/wm30203go.win32.scd 
+- name: remastered/libretto/us/wm524.bar/voice/wm/us/wm30303go
+  method: copy 
+  source: 
+  - name: voice/us/event/wm30303go.win32.scd 
 ### CREPUSCOPOLI ###
+# PIPPO
+- name: voice/us/event/tt71303go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt71303go.win32.scd 
 # PAPERINO
 - name: voice/us/event/tt70203do.win32.scd 
   method: copy 
@@ -1879,6 +1901,14 @@ assets:
   source: 
   - name: voice/us/event/tt31708fu.win32.scd 
 # OLETTE
+- name: voice/us/event/tt40308or.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40308or.win32.scd 
+- name: voice/us/event/tt49203Bor.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt49203Bor.win32.scd 
 - name: voice/us/event/tt10203or.win32.scd 
   method: copy 
   source: 
@@ -5792,6 +5822,10 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/hb10842sr.win32.scd 
+- name: voice/us/event/hb10844sr.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10844sr.win32.scd 
 # PAPERINO
 - name: voice/us/event/hb10203do.win32.scd 
   method: copy 
@@ -5825,6 +5859,10 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/hb10633do.win32.scd 
+- name: voice/us/event/hb10639do.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10639do.win32.scd 
 - name: voice/us/event/hb10808do.win32.scd 
   method: copy 
   source: 
