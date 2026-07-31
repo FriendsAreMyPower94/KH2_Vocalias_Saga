@@ -1,5 +1,5 @@
 title: Kingdom Hearts II Vocalia's Saga
-version: 0.0.6
+version: 0.0.7
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
 description: Mod di doppiaggio e adattamento in italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
@@ -1036,6 +1036,10 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/tt80617ie_3.win32.scd 
+- name: voice/us/event/tt80622ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80622ie_1.win32.scd 
 - name: voice/us/event/tt80622ie_2.win32.scd 
   method: copy 
   source: 
@@ -1342,6 +1346,54 @@ assets:
   method: copy 
   source: 
   - name: voice/us/event/tt80213go_1.win32.scd 
+- name: voice/us/event/tt80213go_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80213go_2.win32.scd 
+- name: voice/us/event/tt80216Cgo.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80216Cgo.win32.scd 
+- name: voice/us/event/tt80219go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80219go.win32.scd 
+- name: voice/us/event/tt80305go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80305go.win32.scd 
+- name: voice/us/event/tt80402go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80402go.win32.scd 
+- name: voice/us/event/tt80505go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80505go.win32.scd 
+- name: voice/us/event/tt80603go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80603go.win32.scd 
+- name: voice/us/event/tt80620go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80620go.win32.scd 
+- name: voice/us/event/tt80623go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80623go.win32.scd 
+- name: voice/us/event/tt80819Bgo.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80819Bgo.win32.scd 
+- name: voice/us/event/tt80821go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80821go.win32.scd 
+- name: voice/us/event/tt80915go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80915go.win32.scd 
 # PAPERINO
 - name: voice/us/event/tt70203do.win32.scd 
   method: copy 
@@ -10475,6 +10527,11 @@ assets:
   source: 
   - name: voice/us/event/ca10104Aga.win32.scd 
 ### MARGINE OSCURO ###
+# XEMNAS
+- name: voice/us/event/es00002x1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/es00002x1.win32.scd 
 # ROXAS
 - name: voice/us/event/es00003rs.win32.scd 
   method: copy 
