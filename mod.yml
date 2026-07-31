@@ -895,6 +895,215 @@ assets:
   source: 
   - name: voice/us/event/wm30303go.win32.scd 
 ### CREPUSCOPOLI ###
+# YEN SID
+- name: voice/us/event/tt80504ie.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80504ie.win32.scd 
+- name: voice/us/event/tt80506ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80506ie_1.win32.scd 
+- name: voice/us/event/tt80506ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80506ie_2.win32.scd 
+- name: voice/us/event/tt80506ie_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80506ie_3.win32.scd 
+- name: voice/us/event/tt80508ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80508ie_1.win32.scd 
+- name: voice/us/event/tt80508ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80508ie_2.win32.scd 
+- name: voice/us/event/tt80508ie_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80508ie_3.win32.scd 
+- name: voice/us/event/tt80508ie_4.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80508ie_4.win32.scd 
+- name: voice/us/event/tt80509ie.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80509ie.win32.scd 
+- name: voice/us/event/tt80511ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80511ie_1.win32.scd 
+- name: voice/us/event/tt80511ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80511ie_2.win32.scd 
+- name: voice/us/event/tt80512ie.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80512ie.win32.scd 
+- name: voice/us/event/tt80513ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80513ie_1.win32.scd 
+- name: voice/us/event/tt80602ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80602ie_1.win32.scd 
+- name: voice/us/event/tt80602ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80602ie_2.win32.scd 
+- name: voice/us/event/tt80602ie_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80602ie_3.win32.scd 
+- name: voice/us/event/tt80604ie.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80604ie.win32.scd 
+- name: voice/us/event/tt80606ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80606ie_1.win32.scd 
+- name: voice/us/event/tt80606ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80606ie_2.win32.scd 
+- name: voice/us/event/tt80608ie.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80608ie.win32.scd 
+- name: voice/us/event/tt80609ie.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80609ie.win32.scd 
+- name: voice/us/event/tt80610ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80610ie_1.win32.scd 
+- name: voice/us/event/tt80610ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80610ie_2.win32.scd 
+- name: voice/us/event/tt80610ie_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80610ie_3.win32.scd 
+- name: voice/us/event/tt80612ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80612ie_1.win32.scd 
+- name: voice/us/event/tt80612ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80612ie_2.win32.scd 
+- name: voice/us/event/tt80613ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80613ie_1.win32.scd 
+- name: voice/us/event/tt80613ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80613ie_2.win32.scd 
+- name: voice/us/event/tt80614ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80614ie_1.win32.scd 
+- name: voice/us/event/tt80614ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80614ie_2.win32.scd 
+- name: voice/us/event/tt80616ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80616ie_1.win32.scd 
+- name: voice/us/event/tt80616ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80616ie_2.win32.scd 
+- name: voice/us/event/tt80617ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80617ie_1.win32.scd 
+- name: voice/us/event/tt80617ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80617ie_2.win32.scd 
+- name: voice/us/event/tt80617ie_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80617ie_3.win32.scd 
+- name: voice/us/event/tt80622ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80622ie_2.win32.scd 
+- name: voice/us/event/tt80622ie_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80622ie_3.win32.scd 
+- name: voice/us/event/tt80903ie.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80903ie.win32.scd 
+- name: voice/us/event/tt80904ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80904ie_1.win32.scd 
+- name: voice/us/event/tt80904ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80904ie_2.win32.scd 
+- name: voice/us/event/tt80906ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80906ie_1.win32.scd 
+- name: voice/us/event/tt80906ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80906ie_2.win32.scd 
+- name: voice/us/event/tt80906ie_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80906ie_3.win32.scd 
+- name: voice/us/event/tt80906ie_4.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80906ie_4.win32.scd 
+- name: voice/us/event/tt80906ie_5.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80906ie_5.win32.scd 
+- name: voice/us/event/tt80906ie_6.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80906ie_6.win32.scd 
+- name: voice/us/event/tt80908ie.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80908ie.win32.scd 
+- name: voice/us/event/tt80910ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80910ie_1.win32.scd 
+- name: voice/us/event/tt80910ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80910ie_2.win32.scd 
+- name: voice/us/event/tt80910ie_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80910ie_3.win32.scd 
+- name: voice/us/event/tt80912ie_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80912ie_1.win32.scd 
+- name: voice/us/event/tt80912ie_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80912ie_2.win32.scd 
 # DIZ
 - name: voice/us/event/tt10224dz.win32.scd 
   method: copy 
@@ -1057,10 +1266,82 @@ assets:
   source: 
   - name: voice/us/event/tt61802dz.win32.scd 
 # PIPPO
+- name: voice/us/event/tt70204go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70204go.win32.scd 
+- name: voice/us/event/tt70205Bgo.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70205Bgo.win32.scd 
+- name: voice/us/event/tt70206Cgo.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70206Cgo.win32.scd 
+- name: voice/us/event/tt70209go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70209go.win32.scd 
+- name: voice/us/event/tt70212go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70212go.win32.scd 
+- name: voice/us/event/tt70215go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70215go.win32.scd 
+- name: voice/us/event/tt70511go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70511go.win32.scd 
+- name: voice/us/event/tt70707go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70707go.win32.scd 
+- name: voice/us/event/tt70710go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70710go.win32.scd 
+- name: voice/us/event/tt70716Bgo.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70716Bgo.win32.scd 
+- name: voice/us/event/tt70716go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70716go.win32.scd 
+- name: voice/us/event/tt70722go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70722go.win32.scd 
+- name: voice/us/event/tt70725go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70725go.win32.scd 
+- name: voice/us/event/tt70903go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt70903go.win32.scd 
+- name: voice/us/event/tt71104go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt71104go.win32.scd 
 - name: voice/us/event/tt71303go.win32.scd 
   method: copy 
   source: 
   - name: voice/us/event/tt71303go.win32.scd 
+- name: voice/us/event/tt80205go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80205go.win32.scd 
+- name: voice/us/event/tt80209go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80209go.win32.scd 
+- name: voice/us/event/tt80213go_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt80213go_1.win32.scd 
 # PAPERINO
 - name: voice/us/event/tt70203do.win32.scd 
   method: copy 

@@ -10,13 +10,21 @@ Questo progetto nasce dalla nostra passione per la saga con l'obiettivo di offri
 - **Compatibilità:** La mod è progettata per integrarsi con le versioni PC Steam ed Epic Games di Kingdom Hearts II Final Mix
 
 ## 🛠️ Installazione
-### OpenKH
 Questa mod è stata sviluppata per integrarsi perfettamente con l'ecosistema **OpenKH Mods Manager**.
 Affinché OpenKH Mods Manager possa leggere e compilare la mod correttamente è necessario seguire questi passaggi:
 - Scaricare ed installare l'ultima versione di [OpenKH Mods Manager](https://github.com/OpenKH/OpenKh/releases)
 - Seguire la [procedura guidata](https://openkh.dev/tool/GUI.ModsManager/#intro-to-mod-manager) indicando il percorso in cui è installata la vostra versione del gioco, che servirà come base per applicare la mod
-- Una volta configurato correttamente OpenKh, fare clic nel menu in alto su **Mods > Install a new mod** o sul **+** verde al centro della schermata ed inserire il testo **FriendsAreMyPower94/KH2_Vocalias_Saga** nel box "Add a new mod from GitHub" e premere il tasto **Install**
+Una volta configurato correttamente OpenKh, è possibile installare la mod sia tramite GitHub che tramite Nexus Mods.
+
+### GitHub (aggiornamenti automatici)
+- Fare clic nel menu in alto su **Mods > Install a new mod** o sul **+** verde al centro della schermata ed inserire il testo **FriendsAreMyPower94/KH2_Vocalias_Saga** nel box "Add a new mod from GitHub" e premere il tasto **Install**
 - Fare clic sul pulsante **Build and Run** nel menu in alto per compilare la mod e avviare il gioco
+
+### Nexus Mods (aggiornamenti manuali)
+- Scaricare il file `KH2_Vocalias_Saga.zip` dalla pagina di Nexus Mods.
+- Fare clic nel menu in alto su **Mods > Install a new mod** o sul **+** verde al centro della schermata e selezionare il file `.zip` scaricato precedentemente (oppure su può semplicemente trascinare il file `KH2_Vocalias_Saga.zip` nella finestra del programma)
+- Fare clic sul pulsante **Build and Run** nel menu in alto per compilare la mod e avviare il gioco
+
 
 ### Video
 All'interno del gioco sono presenti anche dei file in formato video, come l'opening e l'ending, che devono essere sostituiti a quelli originali.
