@@ -1,5 +1,5 @@
 title: Kingdom Hearts II Vocalia's Saga
-version: 0.0.5
+version: 0.0.6
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
 description: Mod di doppiaggio e adattamento in italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
@@ -895,6 +895,167 @@ assets:
   source: 
   - name: voice/us/event/wm30303go.win32.scd 
 ### CREPUSCOPOLI ###
+# DIZ
+- name: voice/us/event/tt10224dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt10224dz.win32.scd 
+- name: voice/us/event/tt10225dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt10225dz.win32.scd 
+- name: voice/us/event/tt11901dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt11901dz.win32.scd 
+- name: voice/us/event/tt11903dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt11903dz.win32.scd 
+- name: voice/us/event/tt21010dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt21010dz.win32.scd 
+- name: voice/us/event/tt21102dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt21102dz.win32.scd 
+- name: voice/us/event/tt21104dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt21104dz.win32.scd 
+- name: voice/us/event/tt21105dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt21105dz.win32.scd 
+- name: voice/us/event/tt21106dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt21106dz.win32.scd 
+- name: voice/us/event/tt31902dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt31902dz.win32.scd 
+- name: voice/us/event/tt31904dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt31904dz.win32.scd 
+- name: voice/us/event/tt41003dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41003dz.win32.scd 
+- name: voice/us/event/tt41005dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41005dz.win32.scd 
+- name: voice/us/event/tt41007Adz_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41007Adz_1.win32.scd 
+- name: voice/us/event/tt41501dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41501dz.win32.scd 
+- name: voice/us/event/tt41503dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41503dz.win32.scd 
+- name: voice/us/event/tt41505dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41505dz.win32.scd 
+- name: voice/us/event/tt41507dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41507dz.win32.scd 
+- name: voice/us/event/tt41509dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41509dz.win32.scd 
+- name: voice/us/event/tt51502dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51502dz.win32.scd 
+- name: voice/us/event/tt51504dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51504dz.win32.scd 
+- name: voice/us/event/tt51506dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51506dz.win32.scd 
+- name: voice/us/event/tt51508dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51508dz.win32.scd 
+- name: voice/us/event/tt51510dz_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51510dz_1.win32.scd 
+- name: voice/us/event/tt51510dz_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51510dz_2.win32.scd 
+- name: voice/us/event/tt60401dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt60401dz.win32.scd 
+- name: voice/us/event/tt60810dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt60810dz.win32.scd 
+- name: voice/us/event/tt60812dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt60812dz.win32.scd 
+- name: voice/us/event/tt60817dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt60817dz.win32.scd 
+- name: voice/us/event/tt61102dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61102dz.win32.scd 
+- name: voice/us/event/tt61104dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61104dz.win32.scd 
+- name: voice/us/event/tt61106dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61106dz.win32.scd 
+- name: voice/us/event/tt61701dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61701dz.win32.scd 
+- name: voice/us/event/tt61703dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61703dz.win32.scd 
+- name: voice/us/event/tt61705dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61705dz.win32.scd 
+- name: voice/us/event/tt61706dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61706dz.win32.scd 
+- name: voice/us/event/tt61707dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61707dz.win32.scd 
+- name: voice/us/event/tt61710dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61710dz.win32.scd 
+- name: voice/us/event/tt61712dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61712dz.win32.scd 
+- name: voice/us/event/tt61802dz.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61802dz.win32.scd 
 # PIPPO
 - name: voice/us/event/tt71303go.win32.scd 
   method: copy 
