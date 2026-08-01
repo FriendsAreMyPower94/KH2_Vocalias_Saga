@@ -1,5 +1,5 @@
 title: Kingdom Hearts II Vocalia's Saga
-version: 0.0.7
+version: 0.0.8
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
 description: Mod di doppiaggio e adattamento in italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
@@ -895,6 +895,87 @@ assets:
   source: 
   - name: voice/us/event/wm30303go.win32.scd 
 ### CREPUSCOPOLI ###
+# ANNUNCIATORE
+- name: voice/us/event/tt40313to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40313to.win32.scd 
+- name: voice/us/event/tt40314to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40314to.win32.scd 
+- name: voice/us/event/tt40315to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40315to.win32.scd 
+- name: voice/us/event/tt40316to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40316to.win32.scd 
+- name: voice/us/event/tt40317to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40317to.win32.scd 
+- name: voice/us/event/tt40318to_1.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40318to_1.win32.scd 
+- name: voice/us/event/tt40318to_2.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40318to_2.win32.scd 
+- name: voice/us/event/tt40318to_3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40318to_3.win32.scd 
+- name: voice/us/event/tt40319to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40319to.win32.scd 
+- name: voice/us/event/tt40320to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40320to.win32.scd 
+- name: voice/us/event/tt40506to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40506to.win32.scd 
+- name: voice/us/event/tt40601to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40601to.win32.scd 
+- name: voice/us/event/tt40602to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40602to.win32.scd 
+- name: voice/us/event/tt40612to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40612to.win32.scd 
+- name: voice/us/event/tt40615to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40615to.win32.scd 
+- name: voice/us/event/tt40616to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40616to.win32.scd 
+- name: voice/us/event/tt40702to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt40702to.win32.scd 
+- name: voice/us/event/tt41009to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41009to.win32.scd 
+- name: voice/us/event/tt41012to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41012to.win32.scd 
+- name: voice/us/event/tt41108to.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41108to.win32.scd 
 # YEN SID
 - name: voice/us/event/tt80504ie.win32.scd 
   method: copy 
@@ -5096,6 +5177,14 @@ assets:
   source: 
   - name: voice/us/event/eh50210x7.win32.scd 
 # XALDIN
+- name: voice/us/event/eh50102x3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/eh50102x3.win32.scd 
+- name: voice/us/event/eh50104x3.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/eh50104x3.win32.scd 
 - name: voice/us/event/eh50201x3.win32.scd 
   method: copy 
   source: 
@@ -6142,6 +6231,51 @@ assets:
   source: 
   - name: voice/us/event/eh13631na.win32.scd 
 ### LA FORTEZZA OSCURA ###
+# PIPPO
+- name: voice/us/event/hb10202go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10202go.win32.scd 
+- name: voice/us/event/hb10204go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10204go.win32.scd 
+- name: voice/us/event/hb10510Bgo.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10510Bgo.win32.scd 
+- name: voice/us/event/hb10610go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10610go.win32.scd 
+- name: voice/us/event/hb10634go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10634go.win32.scd 
+- name: voice/us/event/hb10640go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10640go.win32.scd 
+- name: voice/us/event/hb10708go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10708go.win32.scd 
+- name: voice/us/event/hb10804go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10804go.win32.scd 
+- name: voice/us/event/hb10829go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10829go.win32.scd 
+- name: voice/us/event/hb10834go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10834go.win32.scd 
+- name: voice/us/event/hb10838go.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/hb10838go.win32.scd 
 # CID
 - name: voice/us/event/hb10603sd.win32.scd 
   method: copy 

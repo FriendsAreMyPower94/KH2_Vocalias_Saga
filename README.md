@@ -29,7 +29,7 @@ Una volta configurato correttamente OpenKh, è possibile installare la mod sia t
 ### Video
 All'interno del gioco sono presenti anche dei file in formato video, come l'opening e l'ending, che devono essere sostituiti a quelli originali.
 Scaricare tutti i video in italiano da [questo link](https://drive.google.com/file/d/1VTsbUI5w4If7eDh_J2SqAEijMtrYl2qv/view?usp=sharing) e sovrascrivere l'intero contenuto della cartella `juefigs` all'interno della cartella d'installazione del gioco; per farlo è sufficiente trascinare l'intera cartella `juefigs` scaricata all'interno della cartella d'installazione del gioco.
-Il percorso d'instalaazione dovrebbe essere qualcosa di simile a questo:
+Il percorso dovrebbe essere qualcosa di simile a questo:
 - **STEAM:** C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
 - **EPIC GAMES:** C:\Program Files\Epic Games\KH_1.5_2.5
 
