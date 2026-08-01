@@ -41,8 +41,18 @@ Questo progetto è stato reso possibile grazie al lavoro del team di Vocalia Stu
 - **Modding:** FriendsAreMyPower94
 
 ## 💬 Community e Supporto
-Se doveste riscontrare bug, problemi audio o refusi nei testi, vi invitiamo ad aprire una segnalazione nella sezione Issues di GitHub.
-Inoltre, ci invitiamo a unirti ai nostri canali social per seguire tutti gli aggiornamenti sul progetto:
+Questa mod, proprio come Vocalia Studios, è un progetto in continua evoluzione.
+
+Nonostante l'impegno dedicato al controllo della qualità, potrebbero essere presenti bug, errori di traduzione, problemi di sincronizzazione, imperfezioni nel doppiaggio o altri difetti tecnici.
+
+Se mai doveste riscontrarne qualcuno, non esistate a segnalarcelo! Ogni feedback sarà prezioso e ci aiuterà a migliorare ulteriormente l'esperienza di gioco.
+
+Rilasceremo aggiornamenti costanti per correggere i problemi riscontrati, rifinire ogni aspetto della mod e renderla, versione dopo versione, sempre più completa e curata.
+
+Grazie per il supporto e... godetevi la nostra piccola impresa!
+— Il Team Vocalia Studios —
+
+Inoltre, vi invitiamo a unirti ai nostri canali social per seguire tutti gli aggiornamenti sul progetto:
 - Instagram: [vocaliastudios](https://www.instagram.com/vocaliastudios/) - [friendsaremypower94](https://www.instagram.com/friendsaremypower94/)
 - YouTube: [𝐕𝐎𝐂𝐀𝐋𝐈𝐀 𝑺𝒕𝒖𝒅𝒊𝒐𝒔](https://www.youtube.com/@vocaliastudio) - [FriendsAreMyPower94](https://www.youtube.com/@FriendsAreMyPower94)
 
