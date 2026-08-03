@@ -1,5 +1,5 @@
 title: Kingdom Hearts II Vocalia's Saga
-version: 0.0.8
+version: 0.0.9
 originalAuthor: Vocalia Studios - FriendsAreMyPower94
 description: Mod di doppiaggio e adattamento in italiano per Kingdom Hearts II Final Mix realizzata da Vocalia Studios.
 logo: icon.png
@@ -895,6 +895,107 @@ assets:
   source: 
   - name: voice/us/event/wm30303go.win32.scd 
 ### CREPUSCOPOLI ###
+# ANSEM
+- name: voice/us/event/tt05202an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt05202an.win32.scd 
+- name: voice/us/event/tt05210an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt05210an.win32.scd 
+- name: voice/us/event/tt05212an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt05212an.win32.scd 
+- name: voice/us/event/tt05214an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt05214an.win32.scd 
+- name: voice/us/event/tt11902an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt11902an.win32.scd 
+- name: voice/us/event/tt21008an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt21008an.win32.scd 
+- name: voice/us/event/tt21101an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt21101an.win32.scd 
+- name: voice/us/event/tt21103an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt21103an.win32.scd 
+- name: voice/us/event/tt31603an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt31603an.win32.scd 
+- name: voice/us/event/tt31605an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt31605an.win32.scd 
+- name: voice/us/event/tt31901an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt31901an.win32.scd 
+- name: voice/us/event/tt31903an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt31903an.win32.scd 
+- name: voice/us/event/tt41502an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41502an.win32.scd 
+- name: voice/us/event/tt41504an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41504an.win32.scd 
+- name: voice/us/event/tt41506an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41506an.win32.scd 
+- name: voice/us/event/tt41508an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt41508an.win32.scd 
+- name: voice/us/event/tt51501an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51501an.win32.scd 
+- name: voice/us/event/tt51503an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51503an.win32.scd 
+- name: voice/us/event/tt51505an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51505an.win32.scd 
+- name: voice/us/event/tt51507an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51507an.win32.scd 
+- name: voice/us/event/tt51509an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt51509an.win32.scd 
+- name: voice/us/event/tt60814an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt60814an.win32.scd 
+- name: voice/us/event/tt61101an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61101an.win32.scd 
+- name: voice/us/event/tt61103an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61103an.win32.scd 
+- name: voice/us/event/tt61105an.win32.scd 
+  method: copy 
+  source: 
+  - name: voice/us/event/tt61105an.win32.scd 
 # ANNUNCIATORE
 - name: voice/us/event/tt40313to.win32.scd 
   method: copy 
