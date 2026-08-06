@@ -12,7 +12,7 @@ Questo progetto nasce dalla nostra passione per la saga con l'obiettivo di offri
 ## 🛠️ Installazione
 Questa mod è stata sviluppata per integrarsi perfettamente con l'ecosistema **OpenKH Mods Manager**.
 Affinché OpenKH Mods Manager possa leggere e compilare la mod correttamente è necessario seguire questi passaggi:
-- Scaricare ed installare l'ultima versione di [OpenKH Mods Manager](https://github.com/OpenKH/OpenKh/releases)
+- Scaricare ed installare l'ultima versione di [OpenKH Mods Manager](https://github.com/OpenKH/OpenKh/releases) cliccando su `openkh.zip`
 - Seguire la [procedura guidata](https://openkh.dev/tool/GUI.ModsManager/#intro-to-mod-manager) indicando il percorso in cui è installata la vostra versione del gioco, che servirà come base per applicare la mod
 Una volta configurato correttamente OpenKh, è possibile installare la mod sia tramite GitHub che tramite Nexus Mods.
 
@@ -33,6 +33,30 @@ Il percorso dovrebbe essere qualcosa di simile a questo:
 - **STEAM:** C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
 - **EPIC GAMES:** C:\Program Files\Epic Games\KH_1.5_2.5
 
+
+### Requisiti
+Per utilizzare questa mod è necessario avere una copia originale installata di Kingdom Hearts II Final Mix.
+
+
+### FAQ
+- Dove metto tutte queste cose che mi avete dato?
+Metti in cartelle separate OpenKH, la mod e i video.
+
+- Ho una versione piratata e il gioco non ha le scritte italiane!
+Per quanto noi di Vocalia Studios non supportiamo in alcun modo la pirateria e riteniamo che la mod debba essere installa solo sulle versioni originali e regolarmente acquistate del gioco, abbiamo effettutato dei test di compatibilità anche con alcune versioni pirata del gioco.
+In questo caso, dopo aver installato la mod come da guida, è importante forzare la lingua italiana nel file di configurazione del gioco.
+Cerca quindi il "epic_emu.ini" (se hai la versione EPIC GAMES) o "config.user.ini" (se hai la versione STEAM) nella cartella di gioco e trova la sezione con la lingua del gioco; cambiala in "it" (per EPIC GAMES) o "italian" (per STEAM) e salva il file.
+
+- Le voci sono inglesi anche se ho fatto tutto!
+Reinstalla OpenKH e posizionale nella cartella "Download"; alle volte un posizionamento errato può creare conflitti con la mod.
+
+- Devo modificare il nome di qualche file?
+No, nope, nada, proprio no.
+
+- Devo impostare qualcosa nel computer o nel gioco?
+Non serve! Se però vuoi condividere il gioco su Discord disattiva "Windows Sonic for Headphones" nelle Impostazioni audio del PC, altrimenti potrebbero non sentirsi le voci nella condivisione schermo!
+
+
 ## 💬 Community e Supporto
 Questa mod, proprio come Vocalia Studios, è un progetto in continua evoluzione.
 
@@ -51,12 +75,10 @@ Inoltre, vi invitiamo a unirvi ai nostri canali social per seguire tutti gli agg
 - Instagram: [vocaliastudios](https://www.instagram.com/vocaliastudios/) - [friendsaremypower94](https://www.instagram.com/friendsaremypower94/)
 - YouTube: [𝐕𝐎𝐂𝐀𝐋𝐈𝐀 𝑺𝒕𝒖𝒅𝒊𝒐𝒔](https://www.youtube.com/@vocaliastudio) - [FriendsAreMyPower94](https://www.youtube.com/@FriendsAreMyPower94)
 
-**Nota Bene:** Per utilizzare questa mod è necessario avere una copia originale installata di Kingdom Hearts II Final Mix.
-
 ## 👥 Crediti
 Questo progetto è stato reso possibile grazie al lavoro del team di Vocalia Studios e a tutti i doppiatori e adattatori che vi hanno preso parte:
 - **Direzione del doppiaggio:** Vocalia Studios
-- **Adattamento:**: Vocalia Studios, FriendsAreMyPower94
+- **Adattamento:** Vocalia Studios, FriendsAreMyPower94
 - **Editing audio:** Vocalia Studios
 - **Modding:** FriendsAreMyPower94
 - **Cast:** [In aggiornamento]
