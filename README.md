@@ -104,7 +104,7 @@ Questo progetto è stato reso possibile grazie al lavoro del team di Vocalia Stu
 - **Modding:** FriendsAreMyPower94
 - **Cast:** [In aggiornamento]
 
-### Credit Extra
+### Crediti Extra
 - **Linux:** SavT
 
 Kingdom Hearts è un marchio registrato di Disney e Square Enix. Questa mod non è a scopo di lucro ed è stata creata dai fan per i fan.
