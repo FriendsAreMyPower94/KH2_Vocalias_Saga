@@ -1,0 +1,5 @@
+# Dipendenze per Kingdom Hearts II Final Mix - Mod Vocalias Saga Installer
+PyQt6>=6.4.0
+pyzipper>=0.3.6
+packaging>=23.0
+pyinstaller>=5.0.0
