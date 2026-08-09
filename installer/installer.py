@@ -46,13 +46,10 @@
     a) Installare PyInstaller e Dipendenze:
           pip install -r requirements.txt
 
-    b) Comando di Compilazione su Windows (File Singolo .exe):
+    b.1) Comando di Compilazione su Windows (File Singolo .exe):
           pyinstaller --noconfirm --onefile --windowed --name "KH2_Vocalias_Saga_Installer" --icon="assets/Logo.ico" --add-data "assets;assets" linux/installer.py
 
-    c) Comando di Compilazione su Windows (Cartella Distribuzione .exe):
-          pyinstaller --noconfirm --onedir --windowed --name "KH2_Vocalias_Saga_Installer" --icon="assets/Logo.ico" --add-data "assets;assets" linux/installer.py
-
-    d) Comando di Compilazione su Linux / Steam Deck (Binario Eseguibile):
+    b.2) Comando di Compilazione su Linux / Steam Deck (Binario Eseguibile):
           pyinstaller --noconfirm --onefile --windowed --name "KH2_Vocalias_Saga_Installer_Linux" --add-data "assets:assets" linux/installer.py
 
     N.B.: L'eseguibile generato verrà salvato nella cartella 'dist/'. Ricordati di
@@ -110,7 +107,7 @@ def resource_path(relative_path):
         base_path = os.path.dirname(os.path.abspath(__file__))
     return os.path.join(base_path, relative_path)
 
-# --- Costanti Globali ---
+# --- Costanti Globali & Link ---
 CHIAVE = "chiave.txt"
 DEFAULT_FOLDER_NAME = ""
 LOG_FILE = "install_log.txt"
@@ -122,8 +119,20 @@ YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
 VERSIONE = "v0.1.0"
-ALT_SITE_NAME = "TBA"
-ALT_SITE_URL = "https://savtchannel.altervista.org/"
+
+# --- Link Ufficiali ---
+SAVT_SITE_URL = "https://savtchannel.altervista.org/"       # Sito personale di SavT (usato SOLO se si clicca su 'Installer By SavT')
+VOCALIA_YT_URL = "https://www.youtube.com/@vocaliastudio"    # Canale YouTube ufficiale di Vocalia Studios
+VOCALIA_GH_URL = "https://github.com/FriendsAreMyPower94/KH2_Vocalias_Saga" # Repository GitHub ufficiale Vocalia Studios
+VOCALIA_WEB_URL = "https://www.youtube.com/@vocaliastudio"   # Link principale Vocalia Studios
+
+# Costanti di riferimento che puntano tutte a Vocalia Studios
+YT_URL = VOCALIA_YT_URL
+GH_URL = VOCALIA_GH_URL
+WEB_URL = VOCALIA_WEB_URL
+ALT_SITE_NAME = "Vocalia Studio"
+ALT_SITE_URL = VOCALIA_YT_URL
+
 CREDITI_MOD = "Mod By 𝐕𝐎𝐂𝐀𝐋𝐈𝐀 𝑺𝒕𝒖𝒅𝒊𝒐𝒔"
 CREDITI_INSTALLER = "Installer By SavT"
 CREDITI = f"{CREDITI_MOD} | {CREDITI_INSTALLER}"
@@ -1152,7 +1161,7 @@ class WelcomeScreen(QWidget):
         version_label.setObjectName("VersionLabel")
         version_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter)
         
-        autore_label = QLabel(f"Installer By <a href='{WEB_URL}'>SavT</a>")
+        autore_label = QLabel(f"Installer By <a href='{SAVT_SITE_URL}'>SavT</a>")
         autore_label.setObjectName("AuthorLabel")
         autore_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         autore_label.setOpenExternalLinks(False)
