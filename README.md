@@ -37,6 +37,27 @@ Il percorso dovrebbe essere qualcosa di simile a questo:
 ### Requisiti
 Per utilizzare questa mod è necessario avere una copia originale installata di Kingdom Hearts II Final Mix.
 
+### 🐧 Installazione su Linux / Steam Deck
+La procedura per sistemi basati su Linux (incluso SteamOS per Steam Deck) richiede alcuni passaggi manuali aggiuntivi.
+
+#### Parte 1: Configurazione di OpenKH
+1.  Segui le istruzioni di installazione standard per Windows/OpenKH, ma con una differenza importante: **non installare gli script del Mod Loader** quando richiesto durante la configurazione.
+2.  Installa la mod "Vocalia's Saga" come descritto nella sezione [GitHub](#github-aggiornamenti-automatici) o [Nexus Mods](#nexus-mods-aggiornamenti-manuali).
+3.  Avvia il processo di **Build** tramite OpenKH. Questo genererà i file della mod necessari per il passaggio successivo.
+4.  Una volta completata la build, apri la cartella dove è installato il gioco e naviga in `Image/dt/`. Al suo interno troverai i file `kh2_first.pkg` e `kh2_first.hed` pronti per essere copiati.
+
+#### Parte 2: Copia manuale dei file
+Ora dovrai copiare i file generati e i video nella cartella di gioco. Per farlo, puoi usare una chiavetta USB o un servizio di trasferimento file.
+
+1.  **Su Steam Deck, avvia la Modalità Desktop.**
+2.  Apri il file manager e naviga fino alla cartella di installazione del gioco. Per trovarla facilmente da Steam:
+    -   Vai alla **Libreria**.
+    -   Clicca con il tasto destro su **KINGDOM HEARTS -HD 1.5+2.5 ReMIX-**.
+    -   Seleziona **Proprietà > File installati > Sfoglia...**
+3.  Copia i seguenti file e cartelle nelle destinazioni specificate all'interno della cartella di gioco:
+    -   Copia i file `kh2_first.pkg` e `kh2_first.hed` (generati da OpenKH) nella sottocartella `Image/dt/`.
+    -   Copia la cartella `juefigs` (scaricata separatamente) nella cartella principale del gioco, sovrascrivendo quella esistente.
+4.  A questo punto, l'installazione è completa! Puoi tornare alla modalità di gioco e avviare Kingdom Hearts II Final Mix.
 
 ### FAQ
 - Dove metto tutte queste cose che mi avete dato?
@@ -82,5 +103,8 @@ Questo progetto è stato reso possibile grazie al lavoro del team di Vocalia Stu
 - **Editing audio:** Vocalia Studios
 - **Modding:** FriendsAreMyPower94
 - **Cast:** [In aggiornamento]
+
+### Crediti Extra
+- **Linux:** SavT
 
 Kingdom Hearts è un marchio registrato di Disney e Square Enix. Questa mod non è a scopo di lucro ed è stata creata dai fan per i fan.
