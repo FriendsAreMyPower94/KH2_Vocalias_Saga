@@ -9,12 +9,29 @@ Questo progetto nasce dalla nostra passione per la saga con l'obiettivo di offri
 - **Integrazione audio:** Le tracce audio sono state bilanciate e sincronizzate con il labiale e le animazioni dei persoanggi
 - **Compatibilità:** La mod è progettata per integrarsi con le versioni PC Steam ed Epic Games di Kingdom Hearts II Final Mix
 
+## 🗝️ Stato del progetto
+Kingdom Hearts II Vocalia's Saga è un progetto in evoluzione, e abbiamo deciso di rilasciare la mod ad episodi, senza aspettare che sia completa al 100%.
+La versione 0.2 attualmente disponibile include i seguenti mondi:
+- Crepuscopoli (Prologo)
+- La Torre Misteriosa
+- La Fortezza Oscura (1a visita)
+- La Terra dei Dragoni (1a visita)
+- Il Castello della Bestia (1a visita)
+- La Fortezza Oscura (2a visita)
+- Il Bosco dei 100 Acri (1a visita)
+- Il Monte Olimpo (1a visita)
+Rilasceremo i nuovi mondi con cadenza regolare fino a che il gioco non sarà completamente adattato in italiano.
+Seguite i nostri profili social per rimanere sempre aggiornati sullo stato dei lavori.
+
 ## 🛠️ Installazione
 Questa mod è stata sviluppata per integrarsi perfettamente con l'ecosistema **OpenKH Mods Manager**.
 Affinché OpenKH Mods Manager possa leggere e compilare la mod correttamente è necessario seguire questi passaggi:
 - Scaricare ed installare l'ultima versione di [OpenKH Mods Manager](https://github.com/OpenKH/OpenKh/releases) cliccando su `openkh.zip`
 - Seguire la [procedura guidata](https://openkh.dev/tool/GUI.ModsManager/#intro-to-mod-manager) indicando il percorso in cui è installata la vostra versione del gioco, che servirà come base per applicare la mod
 Una volta configurato correttamente OpenKh, è possibile installare la mod sia tramite GitHub che tramite Nexus Mods.
+
+### Requisiti
+Per utilizzare questa mod è necessario avere una copia originale installata di Kingdom Hearts II Final Mix.
 
 ### GitHub (aggiornamenti automatici)
 - Fare clic nel menu in alto su "**Mods > Install a new mod**" o sul "**+**" verde al centro della schermata ed inserire il testo **FriendsAreMyPower94/KH2_Vocalias_Saga** nel box "**Add a new mod from GitHub**" e premere il tasto **Install**
@@ -32,10 +49,6 @@ Scaricare tutti i **video in italiano** da [questo link](https://drive.google.co
 Il percorso dovrebbe essere qualcosa di simile a questo:
 - **STEAM:** C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
 - **EPIC GAMES:** C:\Program Files\Epic Games\KH_1.5_2.5
-
-
-### Requisiti
-Per utilizzare questa mod è necessario avere una copia originale installata di Kingdom Hearts II Final Mix.
 
 ### 🐧 Installazione su Linux / Steam Deck
 La procedura per sistemi basati su Linux (incluso SteamOS per Steam Deck) richiede alcuni passaggi manuali aggiuntivi.
@@ -106,5 +119,7 @@ Questo progetto è stato reso possibile grazie al lavoro del team di Vocalia Stu
 
 ### Crediti Extra
 - **Linux:** SavT
+
+**Nota bene:** Non è consentito in alcun modo il riutilizzo, totale o parziale, del codice o dei file presenti in questo repository. Tutto il materiale contenuto è prodotto e di proprietà di Vocalia Studios.
 
 Kingdom Hearts è un marchio registrato di Disney e Square Enix. Questa mod non è a scopo di lucro ed è stata creata dai fan per i fan.
